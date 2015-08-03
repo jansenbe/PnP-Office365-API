@@ -2,7 +2,7 @@
 
 *work in progress*
 
-All PnP repositories are following up on the standard PnP process on getting started and contribute. 
+All Office 365 Developer Patterns and Practices (PnP) repositories are following up on the standard PnP process on getting started and contribute. 
 See following PnP wiki page from the main repository for additional details. 
 
 - For getting started guidance, see [Setting up your environment](https://github.com/OfficeDev/PnP/wiki/Setting-up-your-environment). 
